@@ -1,0 +1,25 @@
+BODY {
+  background:#eeeeee;
+  font-family:sans-serif;
+  margin:10px 10%;
+}
+TABLE{
+  border-collapse:collapse;
+}
+FORM{
+  margin:0;
+}
+TD{
+  padding:3px 9px;
+  border: 1px solid #999999;
+  background: #ffffff;
+}
+TD.key {
+  background: #cccccc;
+}
+INPUT.in {
+  border:0;
+  color:#cc0000;
+  font-size:100%;
+}
+INPUT {margin:0;}
