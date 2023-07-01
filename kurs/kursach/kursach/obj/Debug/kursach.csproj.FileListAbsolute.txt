@@ -1,0 +1,11 @@
+C:\Users\777\Desktop\рксп C#\kursach\kursach\bin\Debug\kursach.exe.config
+C:\Users\777\Desktop\рксп C#\kursach\kursach\bin\Debug\kursach.exe
+C:\Users\777\Desktop\рксп C#\kursach\kursach\bin\Debug\kursach.pdb
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.csproj.SuggestedBindingRedirects.cache
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.Form1.resources
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.Properties.Resources.resources
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.csproj.GenerateResource.cache
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.exe
+C:\Users\777\Desktop\рксп C#\kursach\kursach\obj\Debug\kursach.pdb
